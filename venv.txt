@@ -8,4 +8,6 @@ python -m ipykernel install --user --name=NTBK
 
 python -m pip install pandas
 
-python -m pip install sklearn 
+!pip install seaborn
+
+python -m pip install sklearn  
